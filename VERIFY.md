@@ -4,10 +4,10 @@ To check if the custom L1 you created on Avalanche is working correctly, make a 
 
 ## 1. Clone the repository
 
-Web3.js is a lightweight library for querying the blockchain.
 
 ```bash
 git clone https://github.com/czDamian/myfirstblockchain.git
+
 cd myfirstblockchain
 ```
 
