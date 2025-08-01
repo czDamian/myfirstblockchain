@@ -2,7 +2,7 @@
 
 To check if the custom L1 you created on Avalanche is working correctly, make a simple request to the blockchain to retrieve the chain ID and the balance of the deployer.
 
-## 2. Clone the repository
+## 1. Clone the repository
 
 Web3.js is a lightweight library for querying the blockchain.
 
@@ -20,8 +20,6 @@ npm i web3
 ```
 
 ## 3. Execute the Test Script
-
-Create or use your `index.js` file and add the following code:
 
 ```js
 const { Web3 } = require('web3');
@@ -41,6 +39,11 @@ async function test() {
 }
 
 test();
+
+```
+Execute the code inside the  `index.js` file by running the command below and then check the output in your console
+```bash
+node index.js
 ```
 
 ## 4. Expected Output
