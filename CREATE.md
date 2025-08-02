@@ -45,7 +45,7 @@ After verifying that the Avalanche CLI was installed correctly, proceed with the
 ```bash
 avalanche blockchain create <L1Name>
 ```
-change <L1Name> to your preferred name for the L1 eg: myfirstblockchain.
+change < L1Name > to your preferred name for the L1 eg: myfirstblockchain.
 You will be prompted to select from a list of options in order to complete the deployment. For each of the options,
 - choose subnet EVM
 - choose Proof of Authority

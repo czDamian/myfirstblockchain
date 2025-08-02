@@ -1,11 +1,11 @@
 # How to Deploy Your L1 using Avalanche-CLI
 
-To deploy the blockchain you just configured in the CREATE.md, run the command 
+To deploy the blockchain you just configured in the  [CREATE.md](./CREATE.md), run the command 
 
 ```bash
 avalanche blockchain deploy <L1Name>
 ```
-Replace <L1Name> with the name you used while creating the L1
+Replace < L1Name > with the name you used while creating the L1.
 - choose local network when prompted to choose network for deployment. It will take 1-3 mins for the deployment to complete. You will see the deployment details once the deployment is successful. Use the RPC and token details to connect your L1 to core wallet or meta mask. You can now deploy contracts and make transactions on your L1.
 
 ![L1 Deployed successfully](/public/wallet-connection.png)
