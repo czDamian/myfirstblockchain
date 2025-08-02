@@ -3,7 +3,7 @@
 This repository guides you on how to create, deploy and verify your custom L1 blockchain on Avalanche.
 Please refer to the following README files
 
-- [VERICREATEFY.md](./CREATE.md) - guides you on how to create your custom L1 blockchain
+- [CREATE.md](./CREATE.md) - guides you on how to create your custom L1 blockchain
 - [DEPLOY.md](./DEPLOY.md)- guides you on how to deploy your custom L1 blockchain
 - [VERIFY.md](./VERIFY.md) - guides you on how to verify your newly created blockchain is created successfully and also you can perform transactions on your L1
 
