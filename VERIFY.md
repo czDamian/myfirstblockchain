@@ -1,4 +1,4 @@
-# How To Check if Your Custom L1 is Setup Correctly
+# How To Check if Your Custom L1 is Deployed Correctly
 
 To check if the custom L1 you created on Avalanche is working correctly, make a simple request to the blockchain to retrieve the chain ID and the balance of the deployer.
 
