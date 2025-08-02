@@ -1,4 +1,4 @@
-# How To Check if Your Custom L1 is Setup Correctly
+# Custom L1 on Avalanche Network
 
 This repository guides you on how to create, deploy and verify your custom L1 blockchain on Avalanche.
 Please refer to the following README files
