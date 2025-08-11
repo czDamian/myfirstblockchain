@@ -59,3 +59,4 @@ This will create a configuration for your custom L1. Next step will be to [deplo
 
 
 ![L1 created successfully](/public/creation-success.png)
+[Read More](https://build.avax.network/docs/tooling/create-avalanche-l1)

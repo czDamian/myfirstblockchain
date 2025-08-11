@@ -1,4 +1,4 @@
-const { Web3 } = require('web3');
+import { Web3 } from 'web3';
 
 // Replace the link with your own deployed RPC link
 const web3 = new Web3('http://127.0.0.1:44321/ext/bc/nErz4ynWZ5r2bGg5AwKjWbdWRZy4YRdVp6f4cn7B1J9QVJqq4/rpc');
